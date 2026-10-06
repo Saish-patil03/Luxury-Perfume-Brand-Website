@@ -1,0 +1,10 @@
+{
+  "description": "Delivers a cinematic luxury perfume experience showcasing three unique fragrances with interactive scent notes, brand storytelling, and seamless shopping.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
